@@ -1,0 +1,484 @@
+# pacman -Qeq — Arch 包显式清单
+# 生成时间: 2026-06-21 22:46 CST
+# 主机: HIGHFREEDOM
+# 总数: 228 （其中 AUR: 26）
+
+## 显式包（按字母）
+accerciser
+adobe-source-han-sans-cn-fonts
+adobe-source-han-serif-cn-fonts
+alsa-firmware
+alsa-tools
+alsa-utils
+amd-ucode
+android-sdk-build-tools
+android-sdk-platform-tools
+android-studio
+android-studio-for-platform
+android-tools
+ant
+aosp-devel
+apache
+appmenu-gtk-module
+archlinuxcn-keyring
+ark
+asp
+base
+base-devel
+bash
+bazel
+bcompare
+bind
+bluez-utils
+bridge-utils
+btrfs-progs
+cc-switch-bin
+cheese
+chromium
+clang
+cmake
+cpupower
+cpu-x
+cuda
+dmidecode
+dnsmasq
+docker
+docker-buildx
+docker-compose
+dolphin
+downgrade
+drawio-desktop
+easyconnect
+ed
+edk2-ovmf
+efibootmgr
+eog
+evolution
+execstack
+ex-vi-compat
+fcitx5-configtool
+fcitx5-gtk
+fcitx5-qt
+fcitx5-rime
+fd
+firefox
+firewalld
+flclash-bin
+fwupd
+gconf
+geary
+gendesk
+git
+gitg
+git-lfs
+glade
+gnome-2048
+gnome-dictionary
+gnome-games
+gnome-klotski
+gnome-multi-writer
+gnome-notes
+gnome-photos
+gnome-recipes
+gnome-taquin
+gnome-terminal
+gnome-tetravex
+go
+gptfdisk
+gpu-viewer
+grub
+hexo-cli
+hitori
+iagno
+intellij-idea-ultimate-edition
+intel-media-driver
+intel-ucode
+iptables
+iwd
+jdk11-openjdk
+jdk17-openjdk
+jdk8-openjdk
+jre8-openjdk
+kexec-tools
+konsole
+krfb
+kvantum
+kwalletmanager
+lib32-mangohud
+lib32-nvidia-utils
+lib32-vulkan-radeon
+libguestfs
+libreoffice-still
+libreoffice-still-zh-cn
+libva-nvidia-driver
+libva-utils
+linux
+linux-firmware
+linux-headers
+linuxqq
+looking-glass-rc
+makedumpfile
+mangohud
+mariadb
+maven
+mesa-utils
+meson
+mpv
+nasm
+neofetch
+net-tools
+networkmanager
+nginx
+ninja
+nmap
+nodejs
+noto-color-emoji-fontconfig
+noto-fonts
+noto-fonts-cjk
+noto-fonts-extra
+npm
+ntfs-3g
+ntp
+nvidia-open-dkms
+nvidia-settings
+nvm
+nvme-cli
+okular
+openblas
+openbsd-netcat
+opencode
+openrazer-driver-dkms
+openssh
+packagekit
+packagekit-qt6
+pacman-contrib
+paru
+pavucontrol
+php
+php-fpm
+php-pgsql
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+plasma-meta
+plasma-wayland-protocols
+plocate
+pnpm
+postgresql
+ppsspp
+proxychains-ng
+python2
+python-pipx
+python-pyqt6
+qemu-base
+qemu-guest-agent
+qt5-declarative
+qt5-graphicaleffects
+qt5-quickcontrols2
+qt5-tools
+qt5-virtualkeyboard
+rabbitmq
+rar
+redis
+reflector
+remmina
+rime-ice-git
+rime-pinyin-moegirl
+rust
+rustdesk
+scrcpy
+seahorse
+sof-firmware
+speedtest-cli
+sshfs
+steam
+subversion
+sudo
+sunshine
+system76-power
+tali
+terminus-font
+tig
+tomcat10
+tree
+ttf-dejavu
+ttf-jetbrains-mono-nerd
+ttf-ms-win11-auto-zh_cn
+ttf-roboto
+uboot-tools
+unarchiver
+usbutils
+vde2
+vim
+virtio-win
+virt-manager
+virt-viewer
+visual-studio-code-bin
+vulkan-radeon
+waydroid
+wechat-appimage
+wechat-devtools-bin
+weston
+wget
+wireplumber
+wqy-zenhei
+xf86-video-amdgpu
+xorgxrdp
+xrdp
+yasm
+yay
+yesplaymusic
+zsh
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
+
+## 显式中 AUR 包
+android-sdk-build-tools
+android-sdk-platform-tools
+android-studio
+android-studio-for-platform
+aosp-devel
+asp
+bcompare
+bridge-utils
+cc-switch-bin
+cheese
+easyconnect
+execstack
+flclash-bin
+intellij-idea-ultimate-edition
+linuxqq
+neofetch
+noto-color-emoji-fontconfig
+redis
+system76-power
+ttf-ms-win11-auto-zh_cn
+visual-studio-code-bin
+wechat-appimage
+wechat-devtools-bin
+xorgxrdp
+xrdp
+yesplaymusic
+
+## 包组
+fcitx5-im fcitx5
+fcitx5-im fcitx5-configtool
+fcitx5-im fcitx5-gtk
+fcitx5-im fcitx5-qt
+gnustep-core gnustep-base
+kde-applications ark
+kde-applications dolphin
+kde-applications kio-extras
+kde-applications konsole
+kde-applications krfb
+kde-applications kwalletmanager
+kde-applications okular
+kde-applications signon-kwallet-extension
+kde-graphics okular
+kde-network kio-extras
+kde-network krfb
+kde-network signon-kwallet-extension
+kde-system dolphin
+kde-utilities ark
+kde-utilities konsole
+kde-utilities kwalletmanager
+kf6 attica
+kf6 baloo
+kf6 bluez-qt
+kf6 breeze-icons
+kf6 frameworkintegration
+kf6 karchive
+kf6 kauth
+kf6 kbookmarks
+kf6 kcmutils
+kf6 kcodecs
+kf6 kcolorscheme
+kf6 kcompletion
+kf6 kconfig
+kf6 kconfigwidgets
+kf6 kcoreaddons
+kf6 kcrash
+kf6 kdbusaddons
+kf6 kdeclarative
+kf6 kded
+kf6 kdesu
+kf6 kdnssd
+kf6 kfilemetadata
+kf6 kglobalaccel
+kf6 kguiaddons
+kf6 kholidays
+kf6 ki18n
+kf6 kiconthemes
+kf6 kidletime
+kf6 kimageformats
+kf6 kio
+kf6 kirigami
+kf6 kitemmodels
+kf6 kitemviews
+kf6 kjobwidgets
+kf6 knewstuff
+kf6 knotifications
+kf6 knotifyconfig
+kf6 kpackage
+kf6 kparts
+kf6 kpty
+kf6 kquickcharts
+kf6 krunner
+kf6 kservice
+kf6 kstatusnotifieritem
+kf6 ksvg
+kf6 ktexteditor
+kf6 ktextwidgets
+kf6 kunitconversion
+kf6 kwallet
+kf6 kwidgetsaddons
+kf6 kwindowsystem
+kf6 kxmlgui
+kf6 modemmanager-qt
+kf6 networkmanager-qt
+kf6 oxygen-icons
+kf6 prison
+kf6 purpose
+kf6 qqc2-desktop-style
+kf6 solid
+kf6 sonnet
+kf6 syndication
+kf6 syntax-highlighting
+kf6 threadweaver
+linux-tools cpupower
+nerd-fonts ttf-jetbrains-mono-nerd
+plasma aurorae
+plasma bluedevil
+plasma breeze
+plasma breeze-cursors
+plasma breeze-gtk
+plasma discover
+plasma drkonqi
+plasma flatpak-kcm
+plasma kactivitymanagerd
+plasma kde-cli-tools
+plasma kdecoration
+plasma kde-gtk-config
+plasma kdeplasma-addons
+plasma kglobalacceld
+plasma kinfocenter
+plasma kmenuedit
+plasma knighttime
+plasma kpipewire
+plasma krdp
+plasma kscreen
+plasma kscreenlocker
+plasma ksshaskpass
+plasma ksystemstats
+plasma kwallet-pam
+plasma kwayland
+plasma kwin
+plasma kwrited
+plasma layer-shell-qt
+plasma libkscreen
+plasma libksysguard
+plasma libplasma
+plasma milou
+plasma ocean-sound-theme
+plasma oxygen
+plasma oxygen-cursors
+plasma oxygen-sounds
+plasma plasma5support
+plasma plasma-activities
+plasma plasma-activities-stats
+plasma plasma-browser-integration
+plasma plasma-desktop
+plasma plasma-disks
+plasma plasma-firewall
+plasma plasma-integration
+plasma plasma-keyboard
+plasma plasma-login-manager
+plasma plasma-nm
+plasma plasma-pa
+plasma plasma-systemmonitor
+plasma plasma-thunderbolt
+plasma plasma-vault
+plasma plasma-welcome
+plasma plasma-workspace
+plasma plasma-workspace-wallpapers
+plasma polkit-kde-agent
+plasma powerdevil
+plasma print-manager
+plasma qqc2-breeze-style
+plasma sddm-kcm
+plasma spectacle
+plasma systemsettings
+plasma xdg-desktop-portal-kde
+pro-audio fluidsynth
+pyqt5 python-pyqt5
+pyqt6 python-pyqt6
+python-build-backend python-poetry-core
+python-build-backend python-setuptools
+qt5 qt5-base
+qt5 qt5-declarative
+qt5 qt5-graphicaleffects
+qt5 qt5-multimedia
+qt5 qt5-quickcontrols2
+qt5 qt5-svg
+qt5 qt5-tools
+qt5 qt5-translations
+qt5 qt5-virtualkeyboard
+qt5 qt5-x11extras
+qt6 qt6-5compat
+qt6 qt6-base
+qt6 qt6-declarative
+qt6 qt6-imageformats
+qt6 qt6-location
+qt6 qt6-multimedia
+qt6 qt6-positioning
+qt6 qt6-quick3d
+qt6 qt6-quicktimeline
+qt6 qt6-sensors
+qt6 qt6-shadertools
+qt6 qt6-speech
+qt6 qt6-svg
+qt6 qt6-tools
+qt6 qt6-translations
+qt6 qt6-virtualkeyboard
+qt6 qt6-webchannel
+qt6 qt6-webengine
+qt6 qt6-websockets
+qt6 qt6-webview
+realtime schedtool
+tesseract-data tesseract-data-afr
+utility bcompare
+vulkan-devel spirv-tools
+vulkan-devel vulkan-icd-loader
+vulkan-devel vulkan-tools
+xorg-apps xorg-mkfontscale
+xorg-apps xorg-setxkbmap
+xorg-apps xorg-xauth
+xorg-apps xorg-xdpyinfo
+xorg-apps xorg-xkbcomp
+xorg-apps xorg-xprop
+xorg-apps xorg-xrandr
+xorg-apps xorg-xrdb
+xorg-apps xorg-xset
+xorg-drivers xf86-input-libinput
+xorg-drivers xf86-video-amdgpu
+xorg-fonts xorg-fonts-encodings
+xorg xorg-fonts-encodings
+xorg xorg-mkfontscale
+xorg xorg-server
+xorg xorg-server-common
+xorg xorg-server-devel
+xorg xorg-setxkbmap
+xorg xorg-xauth
+xorg xorg-xdpyinfo
+xorg xorg-xkbcomp
+xorg xorg-xprop
+xorg xorg-xrandr
+xorg xorg-xrdb
+xorg xorg-xset
+xorg xorg-xwayland
+
+## pacman 全部包（数量）
+官方: 1705
+AUR/外部: 35
+总计: 1740
