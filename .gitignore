@@ -1,0 +1,13 @@
+# Private user memory
+/MEMORY/private.md
+
+# Local agent state and task process files
+/.agents/
+/.codex
+/task_plan.md
+/findings.md
+/progress.md
+
+# Generated Python bytecode
+__pycache__/
+*.py[cod]

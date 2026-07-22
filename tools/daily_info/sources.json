@@ -1,0 +1,567 @@
+{
+  "categories": [
+    {
+      "name": "Android Framework",
+      "slug": "android-framework",
+      "sources": [
+        {
+          "name": "Android Developers Blog",
+          "url": "https://android-developers.googleblog.com/feeds/posts/default",
+          "type": "rss",
+          "tags": [
+            "官方",
+            "Android",
+            "Framework"
+          ]
+        },
+        {
+          "name": "Android Developers Medium",
+          "url": "https://medium.com/feed/androiddevelopers",
+          "type": "rss",
+          "tags": [
+            "官方",
+            "Android",
+            "开发"
+          ]
+        },
+        {
+          "name": "AOSP Platform Frameworks Base",
+          "url": "https://android.googlesource.com/platform/frameworks/base/+log/refs/heads/main?format=ATOM",
+          "type": "rss",
+          "tags": [
+            "源码",
+            "AOSP",
+            "Framework"
+          ]
+        },
+        {
+          "name": "Android Source Docs",
+          "url": "https://source.android.com/docs/rss.xml",
+          "type": "rss",
+          "tags": [
+            "官方文档",
+            "AOSP"
+          ]
+        },
+        {
+          "name": "Android Developers Releases",
+          "url": "https://developer.android.com/feeds/androidx-release-notes.xml",
+          "type": "rss",
+          "tags": [
+            "Jetpack",
+            "Release",
+            "Android"
+          ]
+        },
+        {
+          "name": "鸿洋博客",
+          "url": "https://blog.csdn.net/lmj623565791/rss/list",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "Android",
+            "个人博客"
+          ]
+        },
+        {
+          "name": "郭霖博客",
+          "url": "https://guolin.blog.csdn.net/rss/list",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "Android",
+            "个人博客"
+          ]
+        },
+        {
+          "name": "掘金 Android",
+          "url": "https://api.juejin.cn/content_api/v1/subfield/list?tag_id=6809637767543259144",
+          "type": "html",
+          "tags": [
+            "中文社区",
+            "Android"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "slug": "ai",
+      "sources": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/news/rss.xml",
+          "type": "rss",
+          "tags": [
+            "官方",
+            "AI"
+          ]
+        },
+        {
+          "name": "OpenAI Research",
+          "url": "https://openai.com/research/rss.xml",
+          "type": "rss",
+          "tags": [
+            "官方",
+            "Research",
+            "AI"
+          ]
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog/feed.xml",
+          "type": "rss",
+          "tags": [
+            "模型",
+            "开源",
+            "AI"
+          ]
+        },
+        {
+          "name": "Anthropic News",
+          "url": "https://www.anthropic.com/news/rss.xml",
+          "type": "rss",
+          "tags": [
+            "官方",
+            "AI",
+            "Safety"
+          ]
+        },
+        {
+          "name": "Google DeepMind Blog",
+          "url": "https://deepmind.google/blog/rss.xml",
+          "type": "rss",
+          "tags": [
+            "研究",
+            "AI"
+          ]
+        },
+        {
+          "name": "机器之心",
+          "url": "https://www.jiqizhixin.com/rss",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "AI",
+            "社区媒体"
+          ]
+        },
+        {
+          "name": "量子位",
+          "url": "https://www.qbitai.com/feed",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "AI",
+            "社区媒体"
+          ]
+        },
+        {
+          "name": "阮一峰网络日志",
+          "url": "https://www.ruanyifeng.com/blog/atom.xml",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "技术博客",
+            "个人博客"
+          ]
+        },
+        {
+          "name": "张俊林博客",
+          "url": "https://feed.cnblogs.com/blog/u/144218/rss",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "AI",
+            "个人博客"
+          ]
+        },
+        {
+          "name": "掘金 AI",
+          "url": "https://api.juejin.cn/content_api/v1/subfield/list?tag_id=6809637773939431432",
+          "type": "html",
+          "tags": [
+            "中文社区",
+            "AI"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Linux 内核",
+      "slug": "linux-kernel",
+      "sources": [
+        {
+          "name": "LWN.net Kernel",
+          "url": "https://lwn.net/headlines/rss",
+          "type": "rss",
+          "tags": [
+            "Linux",
+            "Kernel"
+          ]
+        },
+        {
+          "name": "Linux Kernel Mainline",
+          "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/atom/?h=master",
+          "type": "rss",
+          "tags": [
+            "Kernel",
+            "Mainline",
+            "源码"
+          ]
+        },
+        {
+          "name": "Kernel Newbies",
+          "url": "https://kernelnewbies.org/FrontPage?action=rss_rc",
+          "type": "rss",
+          "tags": [
+            "社区",
+            "Linux",
+            "Kernel"
+          ]
+        },
+        {
+          "name": "Linux Kernel Mailing List",
+          "url": "https://lore.kernel.org/lkml/atom/t.xml",
+          "type": "rss",
+          "tags": [
+            "邮件列表",
+            "LKML"
+          ]
+        },
+        {
+          "name": "Kernel Recipes Blog",
+          "url": "https://kernel-recipes.org/en/feed.xml",
+          "type": "rss",
+          "tags": [
+            "会议",
+            "Kernel",
+            "实践"
+          ]
+        },
+        {
+          "name": "鸟哥私房菜",
+          "url": "https://linux.vbird.org/rss.xml",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "Linux",
+            "个人博客"
+          ]
+        },
+        {
+          "name": "酷壳 Linux 标签",
+          "url": "https://coolshell.cn/tag/linux/feed",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "Linux",
+            "个人博客"
+          ]
+        },
+        {
+          "name": "掘金 Linux",
+          "url": "https://api.juejin.cn/content_api/v1/subfield/list?tag_id=6809637769950031885",
+          "type": "html",
+          "tags": [
+            "中文社区",
+            "Linux"
+          ]
+        },
+        {
+          "name": "LinuxStory",
+          "url": "https://linuxstory.org/feed/",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "Linux",
+            "社区媒体"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "工程效率工具",
+      "slug": "engineering-efficiency",
+      "sources": [
+        {
+          "name": "GitHub Trending",
+          "url": "https://github.com/trending",
+          "type": "html",
+          "tags": [
+            "工具",
+            "趋势"
+          ]
+        },
+        {
+          "name": "Martin Fowler",
+          "url": "https://martinfowler.com/feed.atom",
+          "type": "rss",
+          "tags": [
+            "架构",
+            "工程方法"
+          ]
+        },
+        {
+          "name": "InfoQ Architecture & Design",
+          "url": "https://feed.infoq.com/architecture-design",
+          "type": "rss",
+          "tags": [
+            "架构",
+            "工程实践"
+          ]
+        },
+        {
+          "name": "GitHub Engineering",
+          "url": "https://github.blog/engineering/feed/",
+          "type": "rss",
+          "tags": [
+            "工程",
+            "效率",
+            "实践"
+          ]
+        },
+        {
+          "name": "Cloudflare Blog",
+          "url": "https://blog.cloudflare.com/rss/",
+          "type": "rss",
+          "tags": [
+            "性能",
+            "工程",
+            "基础设施"
+          ]
+        },
+        {
+          "name": "极客时间 InfoQ 中文",
+          "url": "https://www.infoq.cn/feed",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "工程实践",
+            "社区媒体"
+          ]
+        },
+        {
+          "name": "阮一峰周刊",
+          "url": "https://www.ruanyifeng.com/blog/atom.xml",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "效率工具",
+            "个人博客"
+          ]
+        },
+        {
+          "name": "酷壳",
+          "url": "https://coolshell.cn/feed",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "工程",
+            "个人博客"
+          ]
+        },
+        {
+          "name": "小众软件",
+          "url": "https://www.appinn.com/feed/",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "效率工具",
+            "社区媒体"
+          ]
+        },
+        {
+          "name": "少数派效率工具",
+          "url": "https://sspai.com/feed",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "效率工具",
+            "社区媒体"
+          ]
+        },
+        {
+          "name": "掘金 工具链",
+          "url": "https://api.juejin.cn/content_api/v1/subfield/list?tag_id=6809637771519924237",
+          "type": "html",
+          "tags": [
+            "中文社区",
+            "工程效率"
+          ]
+        },
+        {
+          "name": "LinuxDo",
+          "url": "https://linux.do/latest.rss",
+          "type": "rss",
+          "tags": [
+            "中文社区",
+            "Linux",
+            "工具",
+            "讨论"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "科技前沿",
+      "slug": "frontier-tech",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/feed/",
+          "type": "rss",
+          "tags": [
+            "科技",
+            "前沿"
+          ]
+        },
+        {
+          "name": "Nature Briefing",
+          "url": "https://www.nature.com/nature.rss",
+          "type": "rss",
+          "tags": [
+            "科学",
+            "前沿"
+          ]
+        },
+        {
+          "name": "Ars Technica",
+          "url": "http://feeds.arstechnica.com/arstechnica/index",
+          "type": "rss",
+          "tags": [
+            "科技",
+            "产业"
+          ]
+        },
+        {
+          "name": "IEEE Spectrum",
+          "url": "https://spectrum.ieee.org/feed",
+          "type": "rss",
+          "tags": [
+            "工程",
+            "科技",
+            "前沿"
+          ]
+        },
+        {
+          "name": "Semafor Tech",
+          "url": "https://www.semafor.com/feeds/technology.xml",
+          "type": "rss",
+          "tags": [
+            "科技",
+            "产业",
+            "前沿"
+          ]
+        },
+        {
+          "name": "36氪",
+          "url": "https://36kr.com/feed",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "科技",
+            "社区媒体"
+          ]
+        },
+        {
+          "name": "虎嗅",
+          "url": "https://www.huxiu.com/rss/0.xml",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "科技",
+            "社区媒体"
+          ]
+        },
+        {
+          "name": "少数派",
+          "url": "https://sspai.com/feed",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "科技生活",
+            "社区媒体"
+          ]
+        },
+        {
+          "name": "月光博客",
+          "url": "https://www.williamlong.info/rss.xml",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "科技",
+            "个人博客"
+          ]
+        },
+        {
+          "name": "机器之心前沿",
+          "url": "https://www.jiqizhixin.com/rss",
+          "type": "rss",
+          "tags": [
+            "中文",
+            "科技前沿",
+            "社区媒体"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "中文技术社区",
+      "slug": "chinese-tech-community",
+      "sources": [
+        {
+          "name": "LinuxDo",
+          "url": "https://linux.do/latest.rss",
+          "type": "rss",
+          "tags": [
+            "中文社区",
+            "Linux",
+            "工具",
+            "讨论"
+          ]
+        },
+        {
+          "name": "V2EX Hot",
+          "url": "https://www.v2ex.com/feed/tab/tech.xml",
+          "type": "rss",
+          "tags": [
+            "中文社区",
+            "技术讨论",
+            "热点"
+          ]
+        },
+        {
+          "name": "掘金首页",
+          "url": "https://api.juejin.cn/content_api/v1/article/query_list",
+          "type": "html",
+          "tags": [
+            "中文社区",
+            "掘金",
+            "开发"
+          ]
+        },
+        {
+          "name": "少数派",
+          "url": "https://sspai.com/feed",
+          "type": "rss",
+          "tags": [
+            "中文社区",
+            "效率",
+            "科技生活"
+          ]
+        },
+        {
+          "name": "博客园首页",
+          "url": "https://www.cnblogs.com/rss",
+          "type": "rss",
+          "tags": [
+            "中文社区",
+            "博客",
+            "开发"
+          ]
+        }
+      ]
+    }
+  ]
+}
